@@ -1,4 +1,4 @@
-# Customer Cohort Analysis in SQL with Retail Data
+# SQL-Based Customer Cohort Analysis for Retail
 
 ## What is a Cohort?
 
